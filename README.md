@@ -3,5 +3,6 @@
 <br/>
 AI2_GAN:   PyTorch를 통한 Generative Adversarial Networks(GAN) 구현 및 이해 <br/>
            원문: https://www.run.ai/guides/deep-learning-for-computer-vision/pytorch-gan <br/>
+<br/>
 AI2_DCGAN: DCGAN 튜토리얼 <br/>
            원문: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html <br/>
